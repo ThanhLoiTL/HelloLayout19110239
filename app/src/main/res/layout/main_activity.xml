@@ -298,43 +298,4 @@
     </TableRow>
 
     </TableLayout>
-
-    <!--<LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginLeft="20dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginEnd="5dp"
-        android:layout_marginBottom="15dp"
-        android:layout_weight="5"
-        android:baselineAligned="false"
-        android:orientation="vertical">
-
-
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:scaleType="centerCrop"
-            android:src="@drawable/bag" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="2"
-            android:gravity="bottom"
-            android:text="Vagabond Sack"
-            android:textStyle="bold" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="2"
-            android:text="$120" />
-
-
-    </LinearLayout>-->
-
-
 </ScrollView>
